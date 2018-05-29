@@ -1,0 +1,12 @@
+# Responses
+
+Data travels across the Internet in packets that contain 1,500 bytes of
+ information.
+
+The DSN (Defense Switched Network) provides dial-up alternative routing for the
+Unclassified but Sensitive IP (Internet Protocol).
+
+A cookie is a piece of data from a website that is stored in a user's computer
+while they are browsing that website.
+
+A URL stands for Universal Resource Locator; it is made up of a protocol (http), domain name, and a path.
