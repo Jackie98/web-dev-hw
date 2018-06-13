@@ -13,4 +13,4 @@ and clarify misunderstandings in the requirements. I experienced several issues
 coding the selectio drop down menu, but was able to go back into the website and
 find the resource necessary to correct this.
 
-![screenshot](/images/screenshot.png)
+![screenshot](./images/screenshot.png)
