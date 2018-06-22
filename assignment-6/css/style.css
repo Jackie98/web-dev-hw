@@ -1,0 +1,34 @@
+
+<style>
+      * {
+         font-family: Arial;
+         background-color: #f1f1f1;
+      }
+      h1 {color:#0000800;
+      }
+
+body {
+   background-color:#FFB6C1;
+}
+<style>
+  * {
+     font-family: Arial;
+     background-color: #f1f1f1;
+     padding: 5px;
+  }
+  p { color:#FFD700;
+   background-color: springgreen;
+}
+
+ .inner-block {
+
+   text-indent: 20px;
+ }
+.inner-block {
+   position: absolute;
+}
+div.inner-block {
+    opacity: 0.5;
+}
+</style>
+/* Both of my parents were born in the 50s! */
