@@ -1,0 +1,52 @@
+<style>
+
+h1 { font-family: 'ARCADECLASSIC';
+  background-color: red;
+    text-align: center;
+    margin-bottom: 5em;
+  }
+
+  h1 {font-family: 'ARCADECLASSIC' sans-serif;
+    background-color: red;
+      text-align: center;
+      margin-bottom: 5em;
+    }
+
+    h1 {font-family: 'ARCADECLASSIC' sans-serif;
+      background-color: red;
+        text-align: center;
+        margin-bottom: 5em;
+      }
+      p{font-family: 'ARCADECLASSIC', sans-serif;
+          text-align: center;
+          margin-bottom: 5em;
+        }
+        p::first-letter {
+    color: red;
+  }
+  .button:hover {
+    color: #383636;
+    font-style: italic;
+}
+.button {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(28,205,202);
+    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    border-width: 9px 15px 15px 9px;
+    border-style: solid;
+    position: relative;
+    margin: auto;
+    top: 1em;
+    padding: 1em;
+    width: 9em;
+    text-align: center;
+}
+.button:active {
+    color: #fff;
+    background-color: rgb(17, 127, 126);
+    border-color: #383636 #8f8b8b #8f8b8b #383636;
+    border-width: 15px 9px 9px 15px;
+}
+  </style>
